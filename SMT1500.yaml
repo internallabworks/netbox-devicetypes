@@ -1,0 +1,32 @@
+---
+manufacturer: APC
+model: SMT1500
+slug: smt1500
+part_number: SMT1500
+comments: "APC Smart-UPS, Line Interactive, 1500VA, Tower, 220V, 8x IEC 320 C13 outlets, SmartSlot, AVR, LCD\n \n | RBC Information |      |\n | ---------------\
+  \ | ---- |\n | RBC Replacement | RBC7 |\n | RBC Quantity    | 1    |"
+u_height: 0
+is_full_depth: true
+console-ports:
+  - name: Serial
+    type: rj-45
+  - name: USB
+    type: usb-b
+power-ports:
+  - name: Source
+    type: IEC-320-C13 
+power-outlets:
+  - name: Group 1 Outlet 1
+    type: IEC-320-C13
+  - name: Group 1 Outlet 2
+    type: IEC-320-C13
+  - name: Group 1 Outlet 3
+    type: IEC-320-C13
+  - name: Group 2 Outlet 1
+    type: IEC-320-C13
+  - name: Group 2 Outlet 2
+    type: IEC-320-C13
+  - name: Group 2 Outlet 3
+    type: IEC-320-C13
+module-bays:
+  - name: SmartSlot
