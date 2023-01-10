@@ -62,3 +62,7 @@ interfaces:
   - name: Management
     type: virtual
     mgmt_only: true
+ module-bays:
+  - name: XG1/1
+    label: Label
+    position: The module bay's position within the parent device
