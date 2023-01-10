@@ -1,0 +1,2 @@
+# netbox-devicetypes
+Netbox devicetypes
